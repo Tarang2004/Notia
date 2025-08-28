@@ -36,7 +36,7 @@
  
  1.  **Clone the repository:**
      ```bash
-     git clone <your-repository-url>
+     git clone https://github.com/Tarang2004/Notia.git
      cd Notia
      ```
  
