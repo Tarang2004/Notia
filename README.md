@@ -51,7 +51,7 @@
      npm run dev
      ```
  
-     The application will be available at `http://localhost:5173` (or the next available port).
+     The application will be available at `http://localhost:5000` (or the next available port).
  
  ## 📁 Project Structure
  
